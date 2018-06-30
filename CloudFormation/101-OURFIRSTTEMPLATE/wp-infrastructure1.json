@@ -1,5 +1,4 @@
 {
-  //Teste de Commit
   "Resources": {
     "DB": {
       "Type": "AWS::RDS::DBInstance",
